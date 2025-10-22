@@ -5,8 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/Digital-Portfolio' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '/Digital-Portfolio' : ''
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/ARTISH-Interwoven' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/ARTISH-Interwoven' : ''
 }
 
 module.exports = nextConfig
